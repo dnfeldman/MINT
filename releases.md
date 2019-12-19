@@ -21,7 +21,7 @@ title: MINT Release updates
 			<li>More information on <a href="https://github.com/mintproject/MINT-DataCatalog-Public/blob/master/docs/resources.md">Resources</a></li>
 			<li>More information on <a href="https://github.com/mintproject/MINT-DataCatalog-Public/blob/master/docs/variables.md">Variables</a></li>
 			<li><a href="https://github.com/mintproject/MINT-DataCatalog-Public/issues">Issue tracker and feature requests</a></li>
-			<li><a href="">Linking</a> variable names to Standard Variable Ontology (SVO)</li>
+			<li><a href="https://github.com/mintproject/MINT-DataCatalog-Public/issues/new/choose">Linking</a> variable names to Standard Variable Ontology (SVO)</li>
 			
 		</ul>
 	</li>
